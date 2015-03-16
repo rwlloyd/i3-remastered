@@ -1,0 +1,18 @@
+i3-remastered. Jan 2015.
+
+The basis of the printer can be found here:
+
+Prusa i3 Rework
+by eMotion-Tech
+http://www.thingiverse.com/thing:119616
+GNU - GPL
+
+
+The design for the X-Idler, with tensioning can be found here:
+
+Prusa i3 x end idler with belt tightener
+by liusega
+http://www.thingiverse.com/thing:276340
+CC Sharealike
+
+All other modifications were my own. .3dm files ca be found in the options folder.
